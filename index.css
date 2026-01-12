@@ -246,3 +246,6 @@ body {
 @media (max-width: 600px) {
     .logo-image { width: 64px; height: 64px; top: 12px; left: 12px; background-size: 130% auto; }
 }
+
+/* Role text color */
+.roles { color: rgb(0,128,0); }
